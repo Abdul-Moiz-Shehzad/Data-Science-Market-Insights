@@ -100,11 +100,4 @@ This project provides insights into trends in data science careers, emphasizing 
 - `notebooks/`: Jupyter notebooks for data preprocessing, analysis, and modeling.  
 - `scripts/`: Python scripts for Selenium scraping and data cleaning.  
 - `visualizations/`: Charts and graphs from exploratory analysis.  
-
----
-
-## Getting Started  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/username/data-science-career-trends.git
-   cd data-science-career-trends
+- `app/`: A Streamlit app to visualize key insights interactively.
